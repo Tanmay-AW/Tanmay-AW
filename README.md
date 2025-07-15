@@ -39,7 +39,7 @@
  **Let's Connect**
 
 - 🌐 Portfolio: [Coming Soon](#)
-- 💼 LinkedIn: [linkedin.com/in/tanmaygunwantdev](www.linkedin.com/in/tanmaygunwantdev) 
+-- 💼 LinkedIn: [linkedin.com/in/tanmaygunwantdev](https://www.linkedin.com/in/tanmaygunwantdev)
 - 📧 Email: [tanmaywork172@gmail.com]
 
 ---
