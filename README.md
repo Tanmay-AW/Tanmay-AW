@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Gunwant</h1>
-<h3 align="center">Final Year B.Tech Student | MERN Stack Developer | Java DSA Enthusiast</h3>
+<h3 align="center">Final Year B.Tech Student | MERN Stack Developer | Python DSA Enthusiast</h3>
 
 ---
 
