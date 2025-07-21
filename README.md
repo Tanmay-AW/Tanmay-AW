@@ -38,7 +38,7 @@
 
  **Let's Connect**
 
-- 🌐 Portfolio: [Tanmay'sPortfolio](https://tanmay-aw.github.io/My-Portorlio/)
+- 🌐 Portfolio: [Tanmay'sPortfolio]([https://tanmay-aw.github.io/My-Portorlio/](https://tanmay-aw.github.io/My-Portfolio/))
 - 💼 LinkedIn: [TanmayGunwant](https://www.linkedin.com/in/tanmaygunwantdev)
 - 📧 Email: [tanmaywork172@gmail.com]
 
