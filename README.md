@@ -1,52 +1,78 @@
-<h1 align="center">Hi 👋, I'm Tanmay Gunwant</h1>
-<h3 align="center">Final Year B.Tech Student | MERN Stack Developer | Java DSA Enthusiast</h3>
+# Hi 👋 I'm Tanmay Gunwant
+
+**Full-Stack MERN Developer | Real-Time Web Applications | AI Integration**
+
+📍 Lucknow, India  
+📧 tanmaywork172@gmail.com  
 
 ---
 
- **About Me**
+## About Me
 
--  Final year B.Tech student passionate about building full-stack applications
--  Currently learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
--  Practicing **Data Structures & Algorithms** with **Java**
--  Familiar with **Python** and general-purpose programming
--  Actively working on personal projects to build a strong resume
--  Aiming for software development roles and internships in web & backend
-
----
-
-🛠️ **Tech Stack**
-
-| Tech        | Tools/Frameworks                           |
-|-------------|--------------------------------------------|
-| 🌐 Frontend | HTML, CSS, JavaScript, React.js            |
-| 🔧 Backend  | Node.js, Express.js                        |
-| 🛢️ Database | MongoDB                                    |
-| 🧠 Language | Java (DSA), Python (Basics)                |
-| 🛠️ Tools    | Git, GitHub, VS Code, Postman              |
+- Final year B.Tech Computer Science student (2026)
+- Full-stack developer focused on building **real-time and AI-powered web applications**
+- Experience building **production-ready projects and freelance client websites**
+- Strong interest in **scalable backend systems and collaborative web platforms**
+- Practicing **Data Structures & Algorithms using Java**
 
 ---
 
- **GitHub Stats**
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-AW&show_icons=true&theme=react" alt="Tanmay's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-AW&theme=react" alt="Tanmay's GitHub Streak" />
-</p>
+### Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS • JavaScript
 
----
+### Backend
+Node.js • Express.js • REST APIs • Authentication
 
- **Let's Connect**
+### Databases
+MongoDB • MySQL
 
-- 🌐 Portfolio: [Tanmay'sPortfolio](https://portfolio-phi-nine-2nyk2e17ea.vercel.app)
-- 💼 LinkedIn: [TanmayGunwant](https://www.linkedin.com/in/tanmaygunwantdev)
-- 📧 Email: [tanmaywork172@gmail.com]
+### Languages
+JavaScript • TypeScript • Java • Python
 
----
-
- **Quote I Live By**
-
-> “The best way to learn to code is to build.”
+### Tools
+Git • GitHub • Postman • Figma • Vercel • Render
 
 ---
 
+## Featured Projects
+
+### HiveMind
+Real-time collaborative coding platform built with WebSockets.
+
+Features:
+- multi-user code editing
+- shared cursors
+- multi-room architecture
+- instant execution environment
+
+Tech: React • Node.js • WebSockets • MongoDB
+
+---
+
+### MindLoom
+AI-powered mental fitness web application.
+
+Features:
+- daily guided routines
+- journaling system
+- gamified progress tracking
+
+Tech: React • Node.js • AI APIs
+
+---
+
+## GitHub Stats
+
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay-AW&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tanmay-AW)
+
+---
+
+## Connect With Me
+
+🌐 Portfolio  
+💼 LinkedIn  
+📧 tanmaywork172@gmail.com
