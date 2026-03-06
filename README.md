@@ -1,27 +1,53 @@
-<h1 align="center">Hi 👋, I'm Tanmay Gunwant</h1>
-<h3 align="center">Full-Stack MERN Developer building real-time and AI-powered web applications</h3>
+# [cite_start]🚀 Tanmay Gunwant [cite: 1]
+### Full-Stack MERN Developer | Real-Time Web Apps | [cite_start]AI Integration [cite: 2]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-aw&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-aw" /> </p>
+[cite_start]I am a full-stack developer specializing in real-time applications and AI integrations[cite: 6]. [cite_start]I have a proven track record of building and deploying 3+ production-ready projects from scratch, prioritizing speed, scalability, and user experience[cite: 7].
 
-- 🔭 I’m currently working on [MindLoom — AI-powered mental fitness web app](https://github.com//mindloom)
+---
 
-- 🌱 I’m currently learning **System design, scalable backend architecture, and advanced React patterns**
+## [cite_start]🌟 Featured Project: MindLoom 
+[cite_start]**AI-Powered Mental Fitness Web App** [cite: 45]
 
-- 👨‍💻 All of my projects are available at [https://portfolio-phi-nine-2nyk2e17ea.vercel.app/](https://portfolio-phi-nine-2nyk2e17ea.vercel.app/)
+[cite_start]MindLoom is a mobile-first mental fitness app delivering daily 5-minute focus and clarity routines[cite: 46].
+* [cite_start]**Core Features:** Includes journaling, breathing exercises, and AI coaching[cite: 46].
+* [cite_start]**Engagement:** Integrated gamification features to boost user engagement[cite: 48].
+* [cite_start]**Optimization:** Highly optimized for load times and cross-device performance[cite: 47].
 
-- 💬 Ask me about **React, Node.js, WebSockets, MERN stack, and building real-time applications**
+---
 
-- 📫 How to reach me **tanmaywork172@gmail.com**
+## 💼 Professional Experience
+### [cite_start]Freelance MERN-Stack Developer & Web Designer [cite: 26]
+*Self-Employed | [cite_start]Aug 2025 – Present* 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tanmaygunwantdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmaygunwantdev" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanmaygunwant172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanmaygunwant172" height="30" width="40" /></a>
-</p>
+* [cite_start]**Beachside Hostel Goa:** Designed and developed a responsive, full-stack booking website incorporating a dynamic booking system using React, Node.js, and MongoDB[cite: 29].
+* [cite_start]**Full-Cycle Delivery:** Manage projects from initial consultation and brand identity (logo design) to final development and deployment[cite: 28].
+* [cite_start]**Client Success:** Build custom web solutions including marketing landing pages and portfolio sites with a focus on mobile-first design[cite: 30].
+* [cite_start]**Collaboration:** Communicate directly with clients via prototypes and regular updates to ensure project goals are met on time[cite: 31].
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-aw&show_icons=true&locale=en" alt="tanmay-aw" /></p>
+## 🛠️ Technical Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-aw&" alt="tanmay-aw" /></p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]React.js, Next.js, Tailwind CSS [cite: 16] |
+| **Backend** | [cite_start]Node.js, Express.js, WebSockets [cite: 22, 42] |
+| **Languages** | [cite_start]JavaScript, TypeScript, HTML, CSS, Java, Python [cite: 10] |
+| **Databases** | [cite_start]MongoDB, MySQL (Oracle Certified) [cite: 12, 35] |
+| **Tools/Cloud** | [cite_start]Git, GitHub, Postman, Figma, Vercel, Render [cite: 18] |
+| **Integrations** | [cite_start]AI API Integration, Authentication  |
+
+---
+
+## 🏆 Achievements & Education
+* [cite_start]**Runner-Up, Smart India Hackathon 2024:** Developed an innovative solution under strict time and technical constraints[cite: 50].
+* [cite_start]**Event Coordinator, Binary Brains:** Organized coding challenges and workshops for the college coding club[cite: 51].
+* [cite_start]**Oracle Certified:** MySQL HeatWave Implementation Associate (2025)[cite: 35].
+* **Education:** B.Tech in Computer Science, B.B.D. [cite_start]Institute of Technology and Management (Expected 2026)[cite: 33, 37].
+
+---
+
+## 📬 Connect With Me
+* [cite_start]**Email:** [tanmaywork172@gmail.com](mailto:tanmaywork172@gmail.com) [cite: 3]
+* [cite_start]**LinkedIn:** [Insert Your LinkedIn Link Here] 
+* [cite_start]**Portfolio:** [Insert Your Portfolio URL Here]
